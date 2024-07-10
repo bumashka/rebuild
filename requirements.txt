@@ -13,5 +13,5 @@ ipython~=8.16.1
 setuptools~=68.2.2
 pandas~=2.1.1
 # ripserplusplus~=1.1.2
-# git+https://github.com/ArGintum/RipserZeros.git
+git+https://github.com/ArGintum/RipserZeros.git
 # git+https://github.com/ArGintum/giotto-ph-ench.git
