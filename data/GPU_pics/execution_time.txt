@@ -1,0 +1,21 @@
+^^^^^^^^^^
+2023-10-15 18:06:28.556522
+Execution time for Mammoth with 50 number of epoc,
+engine ripser, accelerator gpu.
+Execution time is 557.0207290649414 seconds.
+^^^^^^^^^^^^^^^^^^^^
+2023-10-15 18:18:39.290235
+Execution time for Dinosaur with 50 number of epoc,
+engine ripser, accelerator gpu.
+Execution time is 559.7625336647034 seconds.
+^^^^^^^^^^^^^^^^^^^^
+2023-10-15 18:59:31.562225
+Execution time for Mammoth with 100 number of epoc,
+engine ripser, accelerator gpu.
+Execution time is 1147.2166724205017 seconds.
+^^^^^^^^^^^^^^^^^^^^
+2023-10-15 19:24:21.193289
+Execution time for Mammoth with 100 number of epoc,
+engine ripser, accelerator gpu.
+Execution time is 1096.5612969398499 seconds.
+^^^^^^^^^^

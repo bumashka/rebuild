@@ -1,0 +1,11 @@
+^^^^^^^^^^
+2023-10-13 00:40:22.206511
+Execution time for Mammoth with 50 number of epoc,
+engine giotto, accelerator cpu.
+Execution time is 2580.9430871009827 seconds.
+^^^^^^^^^^^^^^^^^^^^
+2023-10-15 21:18:52.973462
+Execution time for Dinosaur with 50 number of epoc,
+engine giotto, accelerator cpu.
+Execution time is 4227.76121711731 seconds.
+^^^^^^^^^^
