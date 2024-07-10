@@ -15,8 +15,8 @@ if __name__ == '__main__':
         "version": "d2",              # Версия, можно и не указывать
         "model_name": "default",
         "max_epochs": 50,          # Максимальное кол-во эпох. Влияет на время и точность работы
-        "devices": 2,              # Используемые устройства, для GPU - [0]
-        "accelerator": "cpu",      # Вид вычислителя, в нашем случае CPU
+        "devices": 0,              # Используемые устройства, для GPU - [0]
+        "accelerator": "gpu",      # Вид вычислителя, в нашем случае CPU
         "rtd_every_n_batches": 1,
         "rtd_start_epoch": 0,
         "rtd_l": 1.0,              # РТД-потеря
@@ -30,7 +30,7 @@ if __name__ == '__main__':
         "batch_size": 64,          # Размер пакета обучения
         #     "width":80,
         #     "heigth":80,
-        "engine": "giotto",        # Используемый движок; для CPU - giotto, GPU - ripser
+        "engine": "ripser",        # Используемый движок; для CPU - giotto, GPU - ripser
         "is_sym": True,
         "lr": 5e-4,
         # 'mode':'minimum',
